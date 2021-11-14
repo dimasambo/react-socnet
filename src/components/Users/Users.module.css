@@ -1,0 +1,36 @@
+.box .head img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+
+.box {
+    display: flex;
+    justify-content: left;
+    margin: 20px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.head {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
+
+.body {
+    display: flex;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 190px;
+}
+
+.location {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

@@ -1,0 +1,12 @@
+.item {
+    color: aqua;
+}
+
+.item img {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.like {
+    color: lightblue;
+}

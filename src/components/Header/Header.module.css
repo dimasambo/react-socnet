@@ -1,0 +1,16 @@
+.header {
+    grid-area: h;
+    background: midnightblue;
+}
+
+.header img {
+    width: 60px;
+}
+
+.login {
+    float: right;
+}
+
+.login a, .login {
+    color: white;
+}
